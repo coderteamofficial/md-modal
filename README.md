@@ -9,18 +9,19 @@ MD Modal based on [Nifty Modal](https://tympanus.net/codrops/2013/06/25/nifty-mo
 
 ## How to
 
-1. Add CSS and JS
+1. **Add CSS and JS**
 
 CSS - `<link rel="stylesheet" href="dist/css/style.css">`
+
 JS - `<script src="dist/js/mdmodal.js"></script>`
 
-2. Button Trigger
+2. **Button Trigger**
 
 Using class `md-trigger` and data-modal on a button or anchor.
 
 `<button class="md-trigger" data-modal="modal-1">Show Modal</button>`
 
-3. Structure
+3. **Structure**
 
 The structure of the modal HTML is specific
 
