@@ -24,7 +24,7 @@ Using class `md-trigger` and data-modal on a button or anchor.
 
 The structure of the modal HTML is specific
 
-`<div class="md-modal md-fade" id="modal-1">
+```<div class="md-modal md-fade" id="modal-1">
     <div class="md-content">
         <div class="md-close"><span></span><span></span></div>
         <div class="md-title">Modal Dialog</div>
@@ -32,7 +32,8 @@ The structure of the modal HTML is specific
             <p>This is a modal window. You can do the following things with it:</p>
         </div>
     </div>
-</div>`
+</div>
+```
 
 An addition div is required (preferably at the bottom) to render the div into.
 
